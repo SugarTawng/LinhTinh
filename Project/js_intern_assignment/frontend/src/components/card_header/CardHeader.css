@@ -1,0 +1,20 @@
+#card_header {
+	width: 100%;
+	padding: 12px 28px;
+	display: flex;
+	flex-direction: column;
+	position: sticky;
+	top: 0;
+	z-index: 99;
+	background-color: var(--White);
+}
+
+#card_header #logo {
+	width: 40px;
+}
+
+#card_header div {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 12px;
+}

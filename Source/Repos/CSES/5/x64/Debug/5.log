@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Source\Repos\CSES\5\Source.cpp(25,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+E:\Source\Repos\CSES\5\Source.cpp(28,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  5.vcxproj -> E:\Source\Repos\CSES\x64\Debug\5.exe
